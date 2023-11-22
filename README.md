@@ -1,5 +1,8 @@
 <h1 align="center">TIS: The International School</h1>
-<h3 align="center">I Farhat: Conquering coding challenges, crafting elegant solutions, fine-tuning code for maximum efficiency and unwaveringly prioritizing user-friendliness and client-driven results. Founder: <a href=https://farhateservices.github.io/fesa/>Farhat e Services & Assistance</a></h3>
+<h3 align="justify">
+Coded one of my finest projects of 2023 coded using HTML, Tailwind CSS and JavaScript with 40+ pages. A school website with all the extra ordinary experince and discovery options. Top 10 recent notices on home page with option to view Old Notices on clickig a button. It features forms from contact to TC Application everything that a school website needs for outstanding digitally in this era of digitalisation.
+ <br><br>
+I Farhat: Conquering coding challenges, crafting elegant solutions, fine-tuning code for maximum efficiency and unwaveringly prioritizing user-friendliness and client-driven results. Founder: <a href=https://farhateservices.github.io/fesa/>Farhat e Services & Assistance</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imfarhat&label=Profile%20views&color=0e75b6&style=flat" alt="imfarhat" /> </p>
 
