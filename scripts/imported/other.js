@@ -1,0 +1,1 @@
+import{loadAllOtherInrastructureData}from"../utility/content-fetch.js";document.addEventListener("DOMContentLoaded",()=>{try{loadAllOtherInrastructureData()}catch(t){console.error("An error occurred:",t)}});

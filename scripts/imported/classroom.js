@@ -1,0 +1,1 @@
+import{loadAllClassroomData}from"../utility/content-fetch.js";document.addEventListener("DOMContentLoaded",()=>{try{loadAllClassroomData()}catch(o){console.error("An error occurred:",o)}});

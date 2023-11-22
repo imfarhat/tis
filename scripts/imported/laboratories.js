@@ -1,0 +1,1 @@
+import{loadAllLaboratoriesData}from"../utility/content-fetch.js";document.addEventListener("DOMContentLoaded",()=>{try{loadAllLaboratoriesData()}catch(o){console.error("An error occurred:",o)}});
